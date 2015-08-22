@@ -1,4 +1,5 @@
-## Put comments here that give an overall description of what your
+## "makeCachematrix" allows you to assign the values of a matrix and its inverse, and get these values
+## "cacheSolve" checks if the inverse of a matrix is in the cache, and if the matrix has not changed, returns it.
 ## functions do
 
 ## Write a short comment describing this function
